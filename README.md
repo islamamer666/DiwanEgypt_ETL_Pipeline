@@ -1,10 +1,9 @@
 # **Wikibooks ETL Pipeline**
 An end-to-end ETL Pipeline for Building Data Warehouse and Analytics Platform
 ## **Table of Contents**
-* [Architecture Diagram].
-* [How it works]
-* [References]
-* [License]
+* Architecture Diagram
+* References
+* License
 
 ### **Architecture Diagram**
 
@@ -22,6 +21,8 @@ An end-to-end ETL Pipeline for Building Data Warehouse and Analytics Platform
 
 
 #### **Reference**
+Inspired by following codes, articles and videos:
+* [AWS and python: the boto3 package](https://towardsdatascience.com/aws-and-python-the-boto3-package-df495bb29cb3)
 
 
 ##### **License**
