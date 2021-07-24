@@ -23,6 +23,7 @@ An end-to-end ETL Pipeline for Building Data Warehouse and Analytics Platform
 #### **Reference**
 Inspired by following codes, articles and videos:
 * [AWS and python: the boto3 package](https://towardsdatascience.com/aws-and-python-the-boto3-package-df495bb29cb3)
+* [Pyspark documentation](https://spark.apache.org/docs/latest/api/python/)
 
 
 ##### **License**
