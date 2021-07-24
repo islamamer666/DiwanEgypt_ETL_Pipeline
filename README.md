@@ -25,5 +25,5 @@ An end-to-end ETL Pipeline for Building Data Warehouse and Analytics Platform
 
 
 ##### **License**
-Distributed under the MIT License
+Distributed under the MIT License. for more information see [Lisence](https://github.com/islamamer666/Wikibooks_ETL_Pipeline/blob/main/LICENSE)
 
