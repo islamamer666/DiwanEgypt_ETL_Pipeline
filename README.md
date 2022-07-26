@@ -1,4 +1,4 @@
-# **Wikibooks ETL Pipeline**
+# **DiwanEgypt ETL Pipeline**
 An end-to-end ETL Pipeline for Building Data Warehouse and Analytics Platform
 ## **Table of Contents**
 * Architecture Diagram
