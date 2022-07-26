@@ -8,7 +8,7 @@ config = configparser.ConfigParser()
 config.read_file(open(f"{Path(__file__).parents[0]}/warehouse_config.cfg"))
 
 
-class WikibooksDataWarehouse:
+class DiwanEgyptDataWarehouse:
 
     def __init__(self):
         self._conn = psycopg2.connect(
